@@ -144,3 +144,23 @@ Este repositorio contiene la arquitectura, el análisis de diseño y el código 
 
 * **Conclusión:**  
   Solución empresarial pura. Cumple al 100% con los principios OCP y SRP. Reemplaza las condicionales lógicas en favor de inyección de dependencias.
+
+
+---
+
+## 🏗️ Arquitectura y Componentes
+
+El proyecto sigue una arquitectura REST Multicapa (Controller - Service - Repository).
+
+### Diagrama de Componentes General
+
+![OficioYa_Diagrama_Componentes.drawio.png](docs/uml/OficioYa_Diagrama_Componentes.drawio.png)
+
+### Diagrama de Componentes especificos
+
+![DiagramaComponentesEspecifico.drawio.png](docs/uml/DiagramaComponentesEspecifico.drawio.png)
+
+### Diagrama de Clases
+
+![OficioYa_Diagrama_Clases.drawio.png](docs/uml/OficioYa_Diagrama_Clases.drawio.png)
+
