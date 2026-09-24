@@ -1,4 +1,4 @@
-package com.oficioya;
+package com.oficioYa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
